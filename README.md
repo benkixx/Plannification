@@ -1,14 +1,91 @@
-Smart Plannification IA est une solution industrielle avancée pilotée par des algorithmes d'optimisation, conçue pour automatiser et améliorer la planification de vos opérations critiques.
+# 🚀 Smart Planning IA
 
-Développée par Nabil Benkirane sous la supervision du Prof. Faouzi Tayalati, la plateforme propose quatre modules actifs :
+Smart Planning IA is an Industry 4.0 web platform designed to optimize industrial planning and scheduling processes using advanced operations research algorithms.
 
-⚡ Ordonnancement des tâches : Séquencez vos opérations sur une seule machine, des machines parallèles, ou dans des environnements complexes Flow Shop et Job Shop. L'objectif est de minimiser le makespan, les retards ou le temps moyen de traitement.
-🚛 Déchargement entrepôt : Optimisez l'affectation des camions aux quais de déchargement en fonction de leurs horaires d'arrivée et de leurs priorités, avec une visualisation immédiate du diagramme de Gantt des quais.
-🔧 Maintenance & interventions : Planifiez efficacement les interventions préventives et correctives, affectez les techniciens adaptés et réduisez les temps d'arrêt machines.
-📦 Planification MRP : Calculez automatiquement les besoins nets multiniveaux et générez les ordres de fabrication et d'achat directement à partir de vos prévisions de demande.
-Points forts techniques :
+Developed by **Nabil Benkirane**
+Supervised by **Prof. Faouzi Tayalati**
 
-Calcul instantané pour une réactivité immédiate.
-Visualisation via des diagrammes de Gantt interactifs.
-Export de données facile au format CSV.
-Algorithmes de pointe : SPT, EDD, NEH, Johnson, Moore-Hodgson, WSPT, LPT, et Giffler-Thompson.
+---
+
+## 📸 Screenshots
+
+### Home Interface
+![Home](images/home.png)
+
+### Gantt Chart Visualization
+![Gantt](images/gantt.png)
+
+### Maintenance Module
+![Maintenance](images/maintenance.png)
+
+---
+
+## ✨ Features
+
+- Interactive Gantt chart visualization
+- CSV export
+- Instant calculation and scheduling
+- User-friendly web interface
+- Real-time planning results
+
+---
+
+## 📦 Available Modules
+
+### ⚡ Scheduling
+- Single Machine
+- Parallel Machine
+- Flow Shop
+- Job Shop
+
+Algorithms:
+- SPT
+- EDD
+- LPT
+- WSPT
+- Johnson
+- NEH
+- Moore-Hodgson
+- Giffler-Thompson
+
+### 🚛 Logistics Planning
+Optimize truck assignment and warehouse unloading operations.
+
+### 🔧 Maintenance Planning
+Plan preventive and corrective interventions while minimizing downtime.
+
+### 📋 MRP Planning
+Generate manufacturing and purchasing orders from demand forecasts.
+
+---
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Chart.js
+- GitHub Pages
+
+---
+
+## 🎯 Objectives
+
+- Reduce makespan
+- Improve resource utilization
+- Minimize delays
+- Support Industry 4.0 decision-making
+
+---
+
+## 👨‍💻 Author
+
+**Nabil Benkirane**
+
+Industrial Engineering & Industry 4.0 Student
+
+---
+
+## 🌐 Live Demo
+
+https://benkixx.github.io/Plannification/
